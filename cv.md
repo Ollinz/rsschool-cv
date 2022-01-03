@@ -3,7 +3,7 @@
 ## Contacts
 * Location: Minsk, Belarus
 * Phone: +375 (44) 792-03-96
-* Email: grishchenkova.olga.v@gmail.com
+* Email: [grishchenkova.olga.v@gmail.com](https://grishchenkova.olga.v@gmail.com)
 * GitHub: [Ollinz](https://github.com/Ollinz)
 * Discord: Ollin(@Ollinz) 
 ## About me
