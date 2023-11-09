@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Ollinz.github.io/rsschool-cv/
